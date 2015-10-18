@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\test.cs">
+    <Files>
+      <File FileName="Assets\test.cs" Line="8" Column="25" />
+      <File FileName="Assets\FirstPageChanger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Items\DragHandlerer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Items\Slotter.cs" Line="1" Column="1" />
+      <File FileName="Assets\ButtonInfo.cs" Line="16" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
